@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Nido Lino — Abbigliamento neonato e bambino",
+      "hasCanvas": false,
+      "bodyTextLen": 2410,
+      "bodyTextHash": "a61b9205c2f11dd3a93332ef478b0286d4446153fffbdf6df023a312659d26a7",
+      "bodyTextPrefix": "Vai al contenuto Spedizione gratuita da 79€ · Resi entro 30 gior",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Nido Lino — Abbigliamento neonato e bambino",
+      "hasCanvas": false,
+      "bodyTextLen": 2343,
+      "bodyTextHash": "33e9019a8e9c87272535675c7dfbb905686cad68a4f0322ab25c35e2a5d82289",
+      "bodyTextPrefix": "Vai al contenuto Spedizione gratuita da 79€ Nido LINO COLLEZIONE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

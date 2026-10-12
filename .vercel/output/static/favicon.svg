@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Nido Lino">
+  <rect width="32" height="32" rx="8" fill="#3E4A38"/>
+  <path fill="#F3EEE4" d="M6 15.2c.6 8.2 19.4 8.2 20 0-1.6 5.4-5.6 8-10 8s-8.4-2.6-10-8z"/>
+  <ellipse cx="16" cy="13.2" rx="3.2" ry="4.1" fill="#8E4632"/>
+</svg>
